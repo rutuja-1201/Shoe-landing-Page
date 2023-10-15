@@ -1,0 +1,35 @@
+.cart {
+  min-height: calc(100vh - 75px);
+  margin-top: 75px;
+  position: relative;
+}
+
+.cart__content {
+  height: 100%;
+  margin: 0 24px;
+  padding: 2em calc((100vw - 1200px) / 2);
+  transition: transform 0.3s; /* Add a transition for smooth changes */
+}
+
+.cart__error {
+  margin-top: 10px;
+  line-height: 1.5;
+  font-size: 18px;
+}
+
+.shop__info {
+  font-size: 20px;
+}
+
+.shop__order-btn {
+  margin-top: 20px;
+  font-size: 18px;
+  padding: 10px 20px;
+  transition: background-color 0.3s, color 0.3s; 
+}
+
+/* Define animation on hover */
+.shop__order-btn:hover {
+  background-color: #007bff; 
+  color: #fff; 
+}
