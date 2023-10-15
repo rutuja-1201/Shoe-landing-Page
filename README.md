@@ -17,10 +17,7 @@
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/PauloBacelar/e-commerce-v3
-
-# Enter on e-commerce-v3 folder
-$ cd e-commerce-v3
+$ git clone "repository link"
 
 # Install the dependencies
 $ npm install
