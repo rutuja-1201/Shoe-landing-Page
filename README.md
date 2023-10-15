@@ -3,7 +3,7 @@
 </h4>
 
 <h1 align="center">
-    🛍️ E-commerce
+   Shoe-landing page
 </h1>
 
 <p align="center">E-commerce shoes website</p>
@@ -30,24 +30,6 @@
 - [x] Fully responsive
 
 
-### 💻 Project
-
-Landing page + cart management of a fictional shoe company
-
-### 🚀 Deploy 
-
-This project is hosted on [Netlify](https://shoes-paulobacelar.netlify.app/).
-
-### ✅ Demo
-<img src="https://github.com/PauloBacelar/e-commerce-v3/blob/main/public/preview/desktop-1.png" height="400px"/>
-<img src="https://github.com/PauloBacelar/e-commerce-v3/blob/main/public/preview/desktop-2.png" height="400px"/>
-<img src="https://github.com/PauloBacelar/e-commerce-v3/blob/main/public/preview/desktop-3.png" height="400px"/>
-
-### ⚙ Prerequisites
-
-Before starting, you'll need to have [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/) or [Yarn](https://yarnpkg.com/).
-Also, an IDE is recommended for editing the code. I recommend [VSCode](https://code.visualstudio.com/).
-
 ### 📗 Running the application
 
 ```bash
@@ -73,10 +55,4 @@ This project uses the following technologies:
 - Javascript
 - Material UI
 
-### 📝 License
 
-This project is under MIT license.
-
-<hr/>
-
-Created by Paulo Bacelar.
